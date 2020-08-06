@@ -7,5 +7,5 @@ CS-510: Explorations In Data Science (Summer 2020) </br>
 * [Project Plan](https://github.com/Sree-Vandana/Data-Science/blob/master/Project%20Plan.pdf)
 * [Data Breach Research Report](https://github.com/Sree-Vandana/Data-Science/blob/master/DataBreach-ResearchReport.pdf)
 * [Mid Point Report](https://github.com/Sree-Vandana/Data-Science/blob/master/Midpoint%20Report.pdf)
-* Implementation Project code (<i>In Progress..</i>)
-* Final Presentation (<i>In Progress..</i>)
+* [Implementation Project code](https://github.com/Sree-Vandana/Data-Science/blob/master/ds%20final%20code.ipynb)
+* [Final Presentation](https://github.com/Sree-Vandana/Data-Science/blob/master/DataBreach-FinalPresentation.pdf)
