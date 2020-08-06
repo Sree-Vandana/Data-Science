@@ -9,3 +9,6 @@ CS-510: Explorations In Data Science (Summer 2020) </br>
 * [Mid Point Report](https://github.com/Sree-Vandana/Data-Science/blob/master/Midpoint%20Report.pdf)
 * [Implementation Project code](https://github.com/Sree-Vandana/Data-Science/blob/master/ds%20final%20code.ipynb)
 * [Final Presentation](https://github.com/Sree-Vandana/Data-Science/blob/master/DataBreach-FinalPresentation.pdf)
+</br></br></br>
+<i>Yes, Professor Kristin Tufte can use our paper and references for future classes
+</i>
